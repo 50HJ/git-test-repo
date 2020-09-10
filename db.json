@@ -27,3 +27,24 @@
     },
     { "id": 5,
       "ticker" :"V",
+      "name": "Visa",
+      "type": "Finance",
+      "price": 150.05
+    },
+    { "id": 6,
+      "ticker" :"BAC",
+      "name": "Bank of America",
+      "type": "Finance",
+      "price": 29.95
+    },
+    { "id": 7,
+      "ticker" :"JPM",
+      "name": "JP Morgan",
+      "type": "Finance",
+      "price": 114.45
+    },
+    { "id": 8,
+      "ticker" :"C",
+      "name": "Citi Bank",
+      "type": "Finance",
+      "price": 72.94
