@@ -16,3 +16,14 @@
     { "id": 3,
       "ticker" :"TWTR",
       "name": "Twitter",
+      "type": "Tech",
+      "price": 29.41
+    },
+    { "id": 4,
+      "ticker" :"AMZN",
+      "name": "Amazon",
+      "type": "Tech",
+      "price": 2013.04
+    },
+    { "id": 5,
+      "ticker" :"V",
