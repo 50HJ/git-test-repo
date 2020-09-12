@@ -48,3 +48,18 @@
       "name": "Citi Bank",
       "type": "Finance",
       "price": 72.94
+    },
+    { "id": 9,
+      "ticker" :"NKE",
+      "name": "Nike",
+      "type": "Sportswear",
+      "price": 84.56
+    },
+    { "id": 10,
+      "ticker" :"UAA",
+      "name": "Under Armour",
+      "type": "Sportswear",
+      "price": 21.07
+    }
+  ]
+}
