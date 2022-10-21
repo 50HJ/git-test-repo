@@ -9,4 +9,5 @@
     }
   ],
   "start_url": "./index.html",
-  "display": "standalo
+  "display": "standalone",
+  "theme_color
