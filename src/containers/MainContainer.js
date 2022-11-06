@@ -1,1 +1,1 @@
-impor
+import React, { Compo
