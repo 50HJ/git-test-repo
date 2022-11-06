@@ -1,1 +1,1 @@
-import React, { Compo
+import React, { Component } from 'react'
