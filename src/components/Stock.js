@@ -11,3 +11,12 @@ const Stock = () => (
           }</h5>
         <p className="card-text">{
             //ticker: stock price
+          }</p>
+      </div>
+    </div>
+
+
+  </div>
+);
+
+export default Stock
