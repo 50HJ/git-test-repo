@@ -3,4 +3,4 @@ import StockContainer from './StockContainer'
 import PortfolioContainer from './PortfolioContainer'
 import SearchBar from '../components/SearchBar'
 
-clas
+class MainContain
