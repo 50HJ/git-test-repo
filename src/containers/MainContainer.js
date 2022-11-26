@@ -5,4 +5,5 @@ import SearchBar from '../components/SearchBar'
 
 class MainContainer extends Component {
 
-  re
+  render() {
+    return 
