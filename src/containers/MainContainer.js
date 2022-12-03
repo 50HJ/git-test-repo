@@ -8,4 +8,6 @@ class MainContainer extends Component {
   render() {
     return (
       <div>
-   
+        <SearchBar/>
+
+ 
