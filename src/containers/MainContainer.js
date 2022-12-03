@@ -10,4 +10,4 @@ class MainContainer extends Component {
       <div>
         <SearchBar/>
 
- 
+          <div class
