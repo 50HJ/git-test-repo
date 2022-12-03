@@ -6,4 +6,6 @@ import SearchBar from '../components/SearchBar'
 class MainContainer extends Component {
 
   render() {
-    return 
+    return (
+      <div>
+   
