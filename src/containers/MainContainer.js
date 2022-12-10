@@ -11,4 +11,4 @@ class MainContainer extends Component {
         <SearchBar/>
 
           <div className="row">
-       
+            <div classN
