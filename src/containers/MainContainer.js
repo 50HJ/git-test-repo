@@ -13,4 +13,6 @@ class MainContainer extends Component {
           <div className="row">
             <div className="col-8">
 
-              <Stock
+              <StockContainer/>
+
+  
