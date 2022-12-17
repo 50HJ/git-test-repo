@@ -16,4 +16,4 @@ class MainContainer extends Component {
               <StockContainer/>
 
             </div>
-    
+            <div className="co
