@@ -18,4 +18,4 @@ class MainContainer extends Component {
             </div>
             <div className="col-4">
 
-              <Po
+              <PortfolioContainer/>
