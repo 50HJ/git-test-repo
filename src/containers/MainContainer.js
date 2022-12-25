@@ -20,4 +20,5 @@ class MainContainer extends Component {
 
               <PortfolioContainer/>
 
-            <
+            </div>
+        
