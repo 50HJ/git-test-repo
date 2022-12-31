@@ -22,4 +22,7 @@ class MainContainer extends Component {
 
             </div>
           </div>
-      </
+      </div>
+    );
+  }
+
