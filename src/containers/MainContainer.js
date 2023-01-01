@@ -28,4 +28,4 @@ class MainContainer extends Component {
 
 }
 
-export default 
+export default MainContainer;
